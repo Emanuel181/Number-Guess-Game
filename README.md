@@ -26,7 +26,4 @@
 <br>
 <br>
 
-![photo](https://github.com/Emanuel181/Credit_Card_Validator/blob/6d05d83476833ce3a9f954add4f199c17a7a8582/Capture.PNG)
-<br>
-<br>
-![photo](https://github.com/Emanuel181/Credit_Card_Validator/blob/6d05d83476833ce3a9f954add4f199c17a7a8582/Capture2.PNG)
+![photo](https://github.com/Emanuel181/Number_Guess_Game/blob/aad31db9d4cd5200ea23eb38be21ecc19a63e149/Capture.PNG)
